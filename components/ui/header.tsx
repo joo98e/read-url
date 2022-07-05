@@ -3,12 +3,15 @@ import Link from "next/link";
 import React from "react";
 
 const Header = ({ ...rest }: any) => {
+
   return (
     <div {...rest}>
-      <div className="flex justify-center">
-        <h4 className="text-orange-400 text-center text-4xl font-bold select-none">Read Urls</h4>
-        <Link href={"/list"}>213</Link>
+      <div className="flex justify-center my-4">
+        <h4 className="text-cyan-700 text-center text-4xl font-bold select-none">
+          Read Urls
+        </h4>
       </div>
+      <div className="border-b-cyan-600 border-b-2 h-1" />
     </div>
   );
 };
