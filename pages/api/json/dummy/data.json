@@ -1,0 +1,586 @@
+{
+    "date": {
+        "years": 2022,
+        "month": 7,
+        "day": 5,
+        "hours": 16,
+        "min": 50,
+        "AMOrPM": "오후",
+        "DayOfWeek": "화"
+    },
+    "result": [
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\4thxml",
+            "title": "4차 산업혁명 신기술과 첫만남 과제"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\advertising",
+            "title": "광고홍보론"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ai",
+            "title": "AI 카메라 기반 온·오프라인 강의 지원 장비_동영상 매뉴얼"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\archive",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\arte",
+            "title": "한국문화예술교육진흥원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ayu",
+            "title": "안양대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ayu_s",
+            "title": "안양대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\baechulgas",
+            "title": "배출가스 장치의 구조 및 정비"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\Baekseok",
+            "title": "백석대학교_언택트 시대의 눈건강 관리법"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\cau",
+            "title": "[중앙대학교 K-MOOC]"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\cau_Bc",
+            "title": "중앙대학교 KMOOC"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\choi_proto",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\codexml",
+            "title": "코알못 과제"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\combine",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\cosmetics",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\country",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\country_gender",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\daejeon",
+            "title": "대전과학기술대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\danjae",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\danjae_2022",
+            "title": "���ġ���������ô�, �츮 ������ ���� ����!"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ddu",
+            "title": "동덕여자대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\design",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\dhu_inspection",
+            "title": "대구한의대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\dist",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\distribution",
+            "title": "유통관리론"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\dist_air",
+            "title": "동원과학기술대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\dist_sports",
+            "title": "동원과학기술대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\dmz",
+            "title": "DMZ"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\dongmyung",
+            "title": "성공적인 소셜벤처 창업을 위한 실무 개론"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\downURL",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\DSC2_2022",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\edugg",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\edulove",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\eduTest",
+            "title": "��⵵ HTML���� �׽�Ʈ"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ex",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\favicon.ico",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\fires_html",
+            "title": "소방학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\gg",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ggg",
+            "title": "광고홍보론"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\gokams",
+            "title": "예술경영지원센터"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\gov_neti",
+            "title": "중앙교육연수원"
+        },
+        null,
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\gugak_",
+            "title": "국악원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\gugak_cd",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\gugak_Sample",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\gyeongsang_2022",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\health",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\house_manager",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\hy_kmooc",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\icm",
+            "title": "국립특수교육원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\icm_2",
+            "title": "국립특수교육원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ikosea",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ikosea_sample",
+            "title": "콘텐츠 샘플"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\index.html",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\inha_2022",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\inin",
+            "title": "샘플콘텐츠"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\inte",
+            "title": "청렴판단력 키우기"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ioj",
+            "title": "법무연수원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\jache",
+            "title": "러닝핏 자체과정_HTML5"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\jbnu_202204",
+            "title": "전북대학교_JBNU 자연과학 콘서트"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\jejudae",
+            "title": "환경문제와 윤리"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\jungangUniv",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\KDI",
+            "title": "한국개발연구원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\keiti",
+            "title": "화학제품안전법"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\kn_program",
+            "title": "경남대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\kocca",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\KOFICE",
+            "title": "한국국제문화교류진흥원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\KOICAURL",
+            "title": "KOICA"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\KOICAURL_2021",
+            "title": "KOICA_2021"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\korail",
+            "title": "한국철도공사"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\korea",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\koreascience",
+            "title": "『 ‘SW 교육, 쉽게 이해하기’ 과정』"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\koreascience_sample",
+            "title": "『 ‘SW 교육, 쉽게 이해하기’ 과정』"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\koreatech_sample",
+            "title": "한국기술교육대학교"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\korea_industry",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\korea_soil",
+            "title": "한국국토정보 변환과정"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\koroad",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\kpoti",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\krei",
+            "title": "한국농촌경제연구원,한국농촌경제연구원,한국농촌경제연구원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\Kroad",
+            "title": "한국도로협회"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\kytti_or",
+            "title": "경기도교통연수원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\K_Credit",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\learningfit",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\learningfit_proto",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\logodi",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\loself",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\lx",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\mail",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\manufacturing2",
+            "title": "산업인력공단 2019"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\manufacturing2_2021",
+            "title": "산업인력공단 2021"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\manufacturing2_farming",
+            "title": "농업 분야 사업주 외국인근로자 고용관리교육"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\manufacturing2_fishery",
+            "title": "어업 분야 사업주 외국인근로자 고용관리교육"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\maum",
+            "title": "백석대학교_놀이와 예술을 통한 어린이 마음치료"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\meganext",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\merti",
+            "title": "::::: 컨텐츠 리스트 :::::"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\methodedu",
+            "title": "법정의무교육"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\mirimlab_job",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\mirimweb",
+            "title": "미림미디어랩(주)"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\mofa",
+            "title": "외교부"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\molit",
+            "title": "경량항공기 조종교육증명 안전교육"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\molit_2022",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\molit_porting2",
+            "title": "경량항공기 조종교육증명 안전교육"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\movie_snuh",
+            "title": "서울대학교 병원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\nids",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\nise",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\nonghyup",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ocean_1",
+            "title": "::::: 컨텐츠 리스트 :::::"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ocean_2",
+            "title": "::::: 컨텐츠 리스트 :::::"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\proto_html",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\pythonxml",
+            "title": "어서와 파이썬은 처음이지 과제"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\rgo_proto",
+            "title": "한국과학창의재단 2020 알지오매스 교수·학습 원격연수콘텐츠"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\sample",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\sample_mobile",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\sample_mobile2",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\sdgs",
+            "title": "환경보전협회"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\shu",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\shu-mirim",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\sobang",
+            "title": "소방차량 적재장비 사용 및 관리"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\sobang_html",
+            "title": "소방차량 적재장비 사용 및 관리"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\ss",
+            "title": "독서교육지도법"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\study_1",
+            "title": "초등수업"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\study_2",
+            "title": "『 ‘수업으로 통(通)하는 SW교육’ 과정(중등)』"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\SWCN",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\swGenius",
+            "title": "한국영재학회"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\tongmyong",
+            "title": "고객발굴기반 비즈니스 모델 수립"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\Traditional_Cult",
+            "title": "문화재청 전통문화교육원 제안 샘플"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\Traditional_Culture",
+            "title": "문화재청 전통문화교육원 제안 샘플"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\tshelpha_test1",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\tsherpa",
+            "title": "독서교육지도법"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\tsherpa_korean",
+            "title": "김준우의 톡(Talk)톡(Talk)한국사, 한국사능력검정시험"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\tsherpa_korean2",
+            "title": "김준우의 톡(Talk)톡(Talk)한국사, 한국사능력검정시험"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\tsherpa_korean2_oldbackup",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\Unesco",
+            "title": "유네스코"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\Unesco_2022",
+            "title": "유네스코 아태 국제이해교육원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\Unesco_2022_ko",
+            "title": "유네스코 아태 국제이해교육원"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\uos",
+            "title": "참여하고 탐구하는 통합과학 수업방법"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\uos_h",
+            "title": "참여하고 탐구하는 통합과학 수업방법"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\URL_basic",
+            "title": "인천광역시교육청교육연수원 2020원격연수 콘텐츠 개발"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\URL_국가인권위원회(2019~2020_개발 과정 확인).xlsx",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\URL_정보기재록.xlsx",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\URL_정보기재록_old.xlsx",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\_readUrls",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\_teamshare",
+            "title": "unknown"
+        },
+        {
+            "path": "\\\\192.168.0.180\\web\\contents\\~$URL_정보기재록.xlsx",
+            "title": "unknown"
+        }
+    ]
+}

@@ -8,7 +8,7 @@ const Header = ({ ...rest }: any) => {
     <div {...rest}>
       <div className="flex justify-center my-4">
         <h4 className="text-cyan-700 text-center text-4xl font-bold select-none">
-          Read Urls
+          웹 경로
         </h4>
       </div>
       <div className="border-b-cyan-600 border-b-2 h-1" />

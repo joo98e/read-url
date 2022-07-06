@@ -1,3 +1,4 @@
+import Button from "@component/common/button";
 import Link from "next/link";
 import React from "react";
 
@@ -12,29 +13,12 @@ const settings = [
     name: "List",
     path: "/list",
   },
-  {
-    name: "Contact",
-    path: "/",
-  },
-  {
-    name: "Help",
-    path: "/",
-  },
 ];
 
-const SideMenu = (props: Props) => {
-
-  const getJson = async () => {
-    const result = await (await fetch("/api/json")).json();
-
-    console.log(result);
-  };
+const SideMenu = ({ ...rest }) => {
 
   return (
-    <div>
-      <div>
-        <p onClick={getJson}>click is json</p>
-      </div>
+    <div className="w-full col-span-1 box-border px-4 mt-2" {...rest}>
       {settings &&
         settings.map((item, i) => {
           return (

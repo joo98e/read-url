@@ -10,11 +10,13 @@ interface ILayout {
 const Layout = ({ children, ...rest }: ILayout) => {
 
   return (
-    <div className="container max-w-7xl mx-auto">
-      <Header className="my-6" />
-      <div className="grid grid-cols-5 ">
-        <SideMenu />
-        <div className="w-full col-span-3">{children}</div>
+    <div className="min-w-screen min-h-screen bg-gray-100 box-border py-4">
+      <div className="container max-w-7xl mx-auto">
+        <Header />
+        <div className="grid grid-cols-5">
+          {/* <SideMenu /> */}
+          <div className="w-full col-span-5">{children}</div>
+        </div>
       </div>
     </div>
   );
